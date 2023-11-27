@@ -88,7 +88,6 @@ var upperCasedCharacters = [
   'Z'
 ];
 
-// Need a way to check if a number was entered
 // Function to prompt user for password options
 function getPasswordOptions() {
   var passwordLength = parseInt(prompt("How many characters would you like your password to be? Please enter a number between 8 - 128."));
@@ -132,7 +131,6 @@ function getPasswordOptions() {
   //   special: special,
   // };
   // console.log(userOptions)
-
   // return userOptions;
 
 
@@ -160,28 +158,3 @@ function writePassword() {
 
 // Add event listener to generate button
 generateBtn.addEventListener('click', writePassword);
-
-
-////////////////////////
-
-// // Function for getting a random element from an array
-// function getRandom(arr) {
-
-// }
-
-// // Function to generate password with user input
-// function generatePassword() {
-//   var options = getPasswordOptions();
-// }
-
-// // Get references to the #generate element
-// var generateBtn = document.querySelector('#generate');
-
-// // Write password to the #password input
-// function writePassword() {
-//   var password = generatePassword();
-//   var passwordText = document.querySelector('#password');
-
-//   passwordText.value = password;
-// }
-
