@@ -15,20 +15,20 @@ To open the project please follow this link: https://anamorai.github.io/Password
 
 Once you open the URL, you will see the following:
 
-![This is the first thing you will see after opening the website](assets/images/1.png)
+![This is the first thing you will see after opening the website](assets/1.png)
 
 
 By clicking on the 'Generate Password' button you will see a series of prompts. It will look like this: 
 
-![If you scroll down, it will look like this](assets/images/2.png)
+![If you scroll down, it will look like this](assets/2.png)
 
 If you were to enter in something incorrectly, I have programmed an alert. It will look like this: 
 
-![If you scroll down, it will look like this](assets/images/3.png)
+![If you scroll down, it will look like this](assets/3.png)
 
 Once you have completed all prompts, a password will be generated for you. It will look like this: 
 
-![If you scroll down, it will look like this](assets/images/4.png)
+![If you scroll down, it will look like this](assets/4.png)
 
 ## Badges
 
